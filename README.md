@@ -28,3 +28,8 @@ third work 数据集：Video Game Sales
 语言： python3
 语言： python3
 依赖的包： scipy, numpy，impyute，pandas, matplotlib
+
+第四次数据挖掘互评作业
+fourth work数据为：wine_benchbarks和shuttle_benchbarks两个数据集
+实验环境为：python3
+依赖的包为：sklearn.decomposition、matplotlib.pyplot、numpy、pandas、pydod
